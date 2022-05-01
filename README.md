@@ -20,68 +20,30 @@ npm run build --report
 
 
 
-#### 摘要
+### 前言
 
 近年来，随着互联网快速发展，网络上的新闻资讯日益丰富，教师，学生们获取新闻的渠道方式多种多样，从而对学校新闻网站的互动体验也有了更高的要求，本管理系统是为喜欢关注学校中各类新闻的用户而开发的一套新闻管理系统，旨在向教师，学生用户提供最及时，最真实的新闻资讯，让用户更加方便，快捷地了解到学校最近所发生的各类新闻事件，用户还可以通过评论留言方式对新闻事件发表自己的言论，从而促进学校的信息交流。
 
-#### 项目介绍
+### 项目介绍
 
-本网站采用了Vue+SpringBoot进行开发，前台页面用Vue进行数据渲染，组件丰富完善，界面美观简洁；后台采用SpringBoot+MyBatisPlus 相关框架结合开发；开发环境为Apache服务器。
+本网站采用了Vue进行开发，前台页面用Vue进行数据渲染，组件丰富完善，界面美观简洁；后台采用SpringBoot+MyBatisPlus 相关框架结合开发；开发环境为Apache服务器。
 
-#### 项目演示
+
+该项目为前后端分离项目的前端部分，后端项目`s`w地址：[传送门](https://github.com/AKvtion/shanWeiSpringboot/)
+
+
+### 项目演示
 
 https://www.bilibili.com/video/BV1AQ4y1Y7dt?share_source=copy_web
 
-#### 功能结构图
 
-![image-20220322212446660]()
+#### 展示新闻图
 
-#### 系统实施
+![image-20220316214511230](https://raw.githubusercontent.com/AKvtion/shanWeiVue/main/static/1651376596(1).jpg)
 
-部署实施
-	为了使师生方便浏览学校新闻，最好部署在阿里云服务器上。首先，准备好以下工具：
+![image-20220316214511230](https://raw.githubusercontent.com/AKvtion/shanWeiVue/main/static/1651376611(1).jpg)
 
-- 阿里服务器1核 2 GiB
-- Linux发行版 CentOS  7.9 64位
-- Tomcat9.5
-- Jdk1.8
-- Apache Web服务器
-- 阿里RDS数据库
-
-
-
-#### 工具简介
-
-| 工具    | 说明              |
-| ------- | ----------------- |
-| VSCode  | 前端开发工具      |
-| IDEA    | 开发IDE           |
-| Navicat | API接口调试工具   |
-| Typora  | Markdown编辑器    |
-| Postman | 数据库连接工具    |
-| X-shell | Linux远程连接工具 |
-
-#### 开发环境
-
-| 工具   | 版本号 |
-| ------ | ------ |
-| JDK    |        |
-| Mysql  |        |
-| Nginx  |        |
-| Tomcat |        |
-|        |        |
-
-
-
-===================
-
-#### 前言
-
-该项目为前后端分离项目的前端部分，后端项目`s`w地址：[传送门](https://github.com/macrozheng/mall)
-
-
-
-
+![image-20220316214511230](https://raw.githubusercontent.com/AKvtion/shanWeiVue/main/static/1651376695(1).jpg)
 
 
 
